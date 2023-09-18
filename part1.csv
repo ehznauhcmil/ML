@@ -1,0 +1,5 @@
+Name,Age,Income,Product_Price,Exam_Score,Category
+John,25.0,"$50,000",100,80,A
+Alice,30.0,"$60,000",200,90,B
+Mike,,"$70,000",300$,95,C
+Sarah,40.0,"$80,000",400,200,
